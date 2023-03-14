@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HrappApplication {
+public class ProjectManagementApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(HrappApplication.class, args);
+        SpringApplication.run(ProjectManagementApplication.class, args);
     }
 
 }
